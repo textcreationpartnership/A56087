@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant-dissenters case, or, The Statute of the 23 of Eliz. Ca. I, inflicting the penalty of 20 £ per month for not coming to church, explained</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56087</idno><idno type="EEBO-CITATION">15032657</idno>
+  <idno type="VID">103073</idno>
+  <idno type="EEBO-PROQUEST">2240892229</idno>
+  
+            <idno type="STC">Wing P3830</idno>
+            <idno type="STC">ESTC R35130</idno>
+            <idno type="OCLC">15032657</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant-dissenters case, or, The Statute of the 23 of Eliz. Ca. I, inflicting the penalty of 20 £ per month for not coming to church, explained</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Knowles ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dissenters, Religious --  Legal status, laws, etc. --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103073:1"/>
+            <head>THE Protestant-Dissenters Case: OR, The Statute of the 23 of <hi>Eliz. Ca.</hi> 1. Inflicting the Penalty of 20 <hi>l. per</hi> Month for <hi>Not coming to Church,</hi> Explained.</head>
+            <p>SInce 'tis a Rule in our Law, that <hi>Ignorance of the Law excuses no man,</hi> 'tis fit every man should be furnisht as far as may be with means to under<g ref="char:EOLhyphen"/>stand each Law that concerns him; and seeing the Sta<g ref="char:EOLhyphen"/>tute of the 23 <hi>Eliz.</hi> after many years <hi>Dormancy,</hi> begins in some places to be put in Execution upon Protestauts, it cannot I humbly conceive, be any Crime or Offence, to offer (with all Modesty and Submission) such rea<g ref="char:EOLhyphen"/>sonable Considerations as may tend towards the Ex<g ref="char:EOLhyphen"/>planation and Understanding the true scope, mean<g ref="char:EOLhyphen"/>ing, and extent of <hi>that Law:</hi> which for more plain<g ref="char:EOLhyphen"/>ness, shall be done by way of stating a Case; Thus,</p>
+            <p>Suppose an Indictment brought against <hi>A. B. set<g ref="char:EOLhyphen"/>ting forth</hi>—<q>That the said <hi>A. B.</hi> for a year last past, was an Inhabitant within the Town of <hi>C.</hi> and a Pa<g ref="char:EOLhyphen"/>rishioner of the same Town, and by the whole time aforesaid, was of the Age of sixteen years and up<g ref="char:EOLhyphen"/>wards.</q>
+            </p>
+            <p>
+               <q>And that the said <hi>A. B.</hi> from the 10th of <hi>August, Anno</hi> 34 <hi>Car.</hi> 2. until the 11th of <hi>Sept.</hi> in the year, <hi>viz.</hi> by the space of a Month next following after the said 10th day of <hi>August,</hi> did not repair <hi>to the Pa<g ref="char:EOLhyphen"/>rish-Church of C.</hi> aforesaid, nor to <hi>any other Church,</hi> Chappel, or usual place of Common-Prayer and Divine Service, any Lords day or <hi>other dayes</hi> or<g ref="char:EOLhyphen"/>dained or used to be kept as <hi>Holy-dayes,</hi> happening between the said 10th day of <hi>August,</hi> and the said 11th day of <hi>Sept.</hi> but voluntarily and obstinately hath forborn the same by the said space of a Month, the said <hi>A. B:</hi> not having any Lawful or reasonable Excuse or Impediment to be absent: <hi>Contra formam Statuti in hujusmodi casu edit. &amp; provis. in Contempt. dicti Domini Regis, nec non contra pacem,</hi> &amp;c.</q>
+            </p>
+            <p>The Defendant Pleads <hi>Non Culp.</hi> that is to say, <hi>Not Guilty.</hi>
+            </p>
+            <p>The matter coming on to <hi>Trial,</hi> if the Defendant (or his Councel) moves, that the <hi>Prosecutor may be called;</hi> (for 'tis said, there is a <hi>Rule</hi> of Court, that on the Pro<g ref="char:EOLhyphen"/>secutors not appearing, the Defendant is to be acquit<g ref="char:EOLhyphen"/>ted. However, be there such a Rule or not, upon the Reasonableness of the Ground thereof, I conceive) if the Prosecutor do not appear, the Defendant may move for his Acquirtal, and ought to be Discharged.</p>
+            <p>
+               <hi>Obj.</hi> If it be Objected, that the Proof <hi>lies on the Defendants part,</hi> and that <hi>he</hi> ought to prove his being at Church:</p>
+            <p>
+               <hi>Answ.</hi> It may be Answered, that the Defendant as to all parts of the Indictment (other and except only so much thereof as concerneth going to any Pa<g ref="char:EOLhyphen"/>rish Church <hi>other</hi> than his <hi>own,</hi> and his having a law<g ref="char:EOLhyphen"/>ful <hi>Impediment</hi>) denies the said Allegation, and is not bound to make any such Proof.</p>
+            <p>For tho the Proof may not be expected on the Pro<g ref="char:EOLhyphen"/>secutors part, of the Defendants not going to <hi>other</hi> Churches, <hi>&amp;c.</hi> because of the multitude of them, and the impossibility of making such a Proof; yet the Clause that the Defendant was not at <hi>his Parish Church,</hi> is a matter of Fact, and a matter of Fact (which over and above the Proof of the Defendants being a <hi>Pari<g ref="char:EOLhyphen"/>shioner</hi> all the Months laid in the Indictm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, and a<g ref="char:EOLhyphen"/>bove sixteen years, which is likewise necessary) ought to be proved, and for default thereof the Defendant to be Acquitted.</p>
+            <p>And therefore the Defendant may insist and stand upon it, and that for these Reasons.</p>
+            <p n="1">1. For that the being or not being of the Defendant at his Parish Church, doth or may lie in the <hi>Knowledge of the Prosecutor,</hi> and without such Knowledge a <hi>whole Town,</hi> or any great number of Persons (if such a Pra<g ref="char:EOLhyphen"/>ctice should be allowed) may be Indicted and put to needless Trouble and Charge; any, and perhaps Con<g ref="char:EOLhyphen"/>victed too wrongfully; for questionless a man going to do a lawful Act, at a lawful place, is not bound to carry <hi>Witnesses</hi> with him.</p>
+            <p n="2">2. Because, touching not coming to Church there are three Statutes, <hi>viz.</hi> 1 <hi>Eliz.</hi> 23 <hi>Eliz.</hi> and 3 <hi>Ja<g ref="char:EOLhyphen"/>cobi.</hi> Now this Indictment is grounded on the two first; not coming to his <hi>Parish Church</hi> being against 1 <hi>Eliz.</hi> and not coming to <hi>some Church,</hi> or <hi>any Church</hi> against 23 <hi>Eliz.</hi> which also referrs to 1 <hi>Eliz.</hi> for it saith, <hi>He that shall not come, contrary to the Statute of</hi> 1 Eliz. now 3 <hi>Jacobi</hi> saith — If any <hi>one resort not,</hi> &amp;c. and hear <hi>Divine Service,</hi> &amp;c. according to the Statute made 1 <hi>Eliz.</hi> He may within a Month after the Offence done, if he cannot make. some good <hi>Excuse</hi> for his Absence, <hi>be Convicted</hi> before one Justice, [Note the manner how, not for want of Proof on his part of his being at Church, but] <hi>upon his own Confession, or the Oath of one Witness:</hi> Note again, It saith not, <hi>If he cannot prove he was at Church,</hi> but if he cannot make <hi>Excuse;</hi> the Proof of the Impediment lies on him, if he alleadge any, but his not being at his Parish Church must be proved at least by one Witness: So this In<g ref="char:EOLhyphen"/>dictment being grounded on 1 <hi>Eliz.</hi> as well as 23 <hi>Eliz.</hi> for that by the 3 <hi>Jac.</hi> a Conviction for 12 <hi>d.</hi> cannot be without Confession of the Party, or <hi>Oath of one</hi> Witness; it cannot be imagined that a Conviction for 20 <hi>l.</hi> should be on less Evidence, or no Evidence at all, or that less proof should serve in the one Case than in the other.</p>
+            <p n="3">3. For that the Law allows of a Plea of <hi>Non Culp.</hi> (not Guilty) to these Indictments, and where that Plea is allow'd, the Proof lies on the other side, unless it be otherwise Enacted and <hi>specially Provided:</hi> As for Landing-Goods, Custom not being paid, by the Sta<g ref="char:EOLhyphen"/>tute <hi>Omnis probandi,</hi> is expresly laid on his part that claims the Goods; which shews or plainly implies it lay not on his part before, for then that Clause of the Act had been needless; but in this Case there is no such Provision: And <hi>Query,</hi> If the Proof lay on the De<g ref="char:EOLhyphen"/>fendants
+<pb facs="tcp:103073:2"/>part, whether <hi>Not Guilty</hi> would have been a good Plea?</p>
+            <p n="4">4. For that, the Law presumes no man to be an Offender till proved such, and is more prone to Ac<g ref="char:EOLhyphen"/>quit than Condemn, therefore there being no Evi<g ref="char:EOLhyphen"/>dence to the contrary, it is to be <hi>presumed</hi> rather that the Defendant did his Duty and went to Church, than without Evidence to presume the contrary.</p>
+            <p n="5">5. For that the Jury are sworn to try the Issue join<g ref="char:EOLhyphen"/>ed, <hi>viz.</hi> whether Guilty or Not Guilty, according to their <hi>Evidence;</hi> so not as a matter of Form, rash<g ref="char:EOLhyphen"/>ly, by Implicit Faith, or in Complemental Obedience, nor upon trust, belief or presumptions; but upon <hi>Evi<g ref="char:EOLhyphen"/>dence,</hi> that is, a sufficiency of Sworn Witnesses, and other Proofs to a Jury for finding an Issue, and so call<g ref="char:EOLhyphen"/>ed, because thereby the point in Issue is to be made <hi>Evid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt</hi> to the Jury — <hi>Probationes d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bent esse Evi<g ref="char:EOLhyphen"/>dentes, &amp; luce clariores.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> It may be Objected, that not going to his Pa<g ref="char:EOLhyphen"/>rish Church is a <hi>Negative.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> But it is such a Negative as may be proved, and to make a man an offender, it must, for the Rea<g ref="char:EOLhyphen"/>sons above, be proved.</p>
+            <p>
+               <hi>Obj.</hi> If it should be pretended, that the Grand Ju<g ref="char:EOLhyphen"/>ries finding it, is a sufficient Evidence for the other Jury.</p>
+            <p>
+               <hi>Ans.</hi> It is to be answered, that it neither is so, nor hath been so taken; nor their Verdicts, or finding of<g ref="char:EOLhyphen"/>fered as Evidence to the other Jury. Nothing being more common, than when a man is Indicted, thô the Bill found by the grand Inquest, yet if no Evidence come against him at his Tryal, for the Court to direct the petty Jury to acquit him.</p>
+            <p>
+               <hi>Obj.</hi> It may in this Case be alleadged, that the De<g ref="char:EOLhyphen"/>fendant is reputed a <hi>Phanatick,</hi> one that is reported not to go to Church, and so it is to be presumed he goes not.</p>
+            <p>
+               <hi>Ans.</hi> Indictments are to be found on credible Wit<g ref="char:EOLhyphen"/>nesses, plain and direct proof, and not <hi>probabilities</hi> or In<g ref="char:EOLhyphen"/>ferences, neither upon Hearsay's, Reports or the like. Neither in such a Case as this, on any of the Jurors own Information, unless they were constantly during the Month all Sundays and Holy-days at the Church, and do know, and did take Notice that the Defendant was not there.</p>
+            <p>These <hi>Arguments</hi> and Reasons carry such weight, that I conceive the Defendant must thereupon be dis<g ref="char:EOLhyphen"/>charg'd for want of Evidence, or at least may move to have it <hi>specially found,</hi> and let the Jury referr it to the Law, <hi>viz.</hi> If the matter and Evidence be <hi>sufficient in Law</hi> to maintain this Issue, then they find it, other<g ref="char:EOLhyphen"/>wise not.</p>
+            <p>If any Witnesses appear against the Defendant, he may Examine them:</p>
+            <p n="1">1. How they know <hi>A. B.</hi> lived in the Town that month, and in what house, and how they know him<g ref="char:EOLhyphen"/>to be above sixteen years of Age?</p>
+            <p n="2">2. Whether the Witness himself were constantly at Church every Sunday, Holy-day and time when Divine service was said there all that month, <hi>&amp;c?</hi>
+            </p>
+            <p>And then the Defendant hath this further to answer, that he is <hi>a Protestant,</hi> professing the Protestant Reli<g ref="char:EOLhyphen"/>gion, and <hi>no Papist</hi> or Popish Recusant, and so not within the Acts made against Papists and Popish Re<g ref="char:EOLhyphen"/>cusants, consequently <hi>not Guilty</hi> as to any Indictment founded upon them.</p>
+            <p>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> prove himself a Protestant, and no Popish Recusant, the defence seems very strong for these rea<g ref="char:EOLhyphen"/>sons, which Evince Protestants not to be within those Acts; As</p>
+            <p n="1">1. For that <hi>another</hi> Act is made against dissenting Protestants, and a severe one too, <hi>viz.</hi> 35 <hi>Eliz.</hi> in which Papists and Popish Recusants are not included, but exempted. And if Protestants be also in 23 <hi>Eliz.</hi> then the Laws are more severe against them than Pa<g ref="char:EOLhyphen"/>pists, and they are in a <hi>worser</hi> Case, which (in those times, there being so many Popish Plots against the Queen) is not reasonably to be presumed.</p>
+            <p n="2">2. The <hi>Preamble</hi> of this Act of 23 <hi>Eliz.</hi> and the <hi>former part</hi> thereof, shews it made against Popish Re<g ref="char:EOLhyphen"/>cusants: See also Sir <hi>Simon Diggs Journal</hi> of all the Parliaments in that Queens Reign.</p>
+            <p n="3">3. The Act of 7 <hi>Jac. Cap.</hi> 6. saith, If a married Woman (being Lawfully convicted as a <hi>Popish Re<g ref="char:EOLhyphen"/>cusant</hi> for not coming to Church) shall not, <hi>&amp;c.</hi> which shews that Convictions on 23 <hi>Eliz.</hi> are Convictions of parties as <hi>Popish Recusants;</hi> therefore the Defen<g ref="char:EOLhyphen"/>dant being no Papist, cannot be Convicted on that Act.</p>
+            <p>And as to this point too, the Defendant (if he see cause) may move to have it specially sound, and if Over-ruled, tender a Bill of Exceptions.</p>
+            <p>Lastly; The Defendant may insist upon this, That he <hi>doth go to Church,</hi> and so Conform, and if he prove this, it seems sufficient for his Acquittal.</p>
+            <p>
+               <hi>Obj.</hi> If it be objected, that he ought to prove he went to Church during the Month in the Indictment, and that his going <hi>since</hi> is not sufficient.</p>
+            <p>
+               <hi>Ans.</hi> I do conceive in this Case his going <hi>since</hi> be<g ref="char:EOLhyphen"/>ing proved, is sufficient. For,</p>
+            <p n="1">1. Before Prosecution the Defendant might not be <hi>so exact to take Witnesses</hi> as he is now, and it may puz<g ref="char:EOLhyphen"/>zle many a very good Church-man to prove upon Oath his being at Church in <hi>February</hi> last. But from the Defendants going now, it is to be presumed he went <hi>before—Justitia semper sequitur mitiorem partem.</hi> Ju<g ref="char:EOLhyphen"/>stice always makes the most favourable Construction.</p>
+            <p n="2">2. The Act of 23 <hi>Eliz.</hi> saith, Every person Guil<g ref="char:EOLhyphen"/>ty of any offence against the Act (except Treason) who shall be thereof Indicted, or at his Arraign<g ref="char:EOLhyphen"/>ment or <hi>TRIAL</hi> before Judgment <hi>Submit and Conform</hi> himself before the Bishop of the Diocess, <hi>&amp;c.</hi> or be<g ref="char:EOLhyphen"/>fore the Justices where he shall be Indicted, Arraigned or Tryed (having not before made Submission, <hi>&amp;c.</hi>) shall upon his Recognition of such Submission, in open Assizes or Sessions of the County where such person shall be Resident, <hi>be discharged</hi> of all and every the said Offences against that Act (except Treasonable) and of all pains and Forfeitures for the same.</p>
+            <p>Now, the Defendants <hi>going to Church</hi> (by him proved) is an <hi>Actual Submission,</hi> or as much as per<g ref="char:EOLhyphen"/>formance of a Submission, and so more than a <hi>Promise,</hi> and is an Evidence of his going before. And especi<g ref="char:EOLhyphen"/>ally if no proof to the Contrary, a good Evidence for his <hi>Acquittal.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <hi>Lex plus Laudatur quando</hi> Ratione <hi>probatur.</hi>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Knowles</hi> in <hi>Tower-street,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
